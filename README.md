@@ -9,9 +9,9 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassaneoulberj-Dev/hassaneoulberj-Dev/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassaneoulberj-Dev/hassaneoulberj-Dev/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/hassaneoulberj-Dev/hassaneoulberj-Dev/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassaneoulberj-Dev/hassaneoulberj-Dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassaneoulberj-Dev/hassaneoulberj-Dev/output/pacman-contribution-graph.svg">
+  <img width="100%" alt="Pac-Man animation of my GitHub contributions" src="https://raw.githubusercontent.com/hassaneoulberj-Dev/hassaneoulberj-Dev/output/pacman-contribution-graph.svg">
 </picture>
 
 ## 🚀 About Me
